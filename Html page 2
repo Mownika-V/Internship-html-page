@@ -1,0 +1,107 @@
+<input type="Submit"
+</fieldset>
+</form>
+</body>
+</html>
+
+DOCTYPE html>
+    <html lang="en">
+        <head>
+    <title>PYTHON</title>
+        </head>
+    <body>
+        <h1> Python Basics</h1>
+        <h2> Introduction to python </h2>
+        <h3> Data Structures</h3>
+    <p>
+        Python is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code.
+    </p>
+    <a href="https://www.geeksforgeeks.org/python-basics/"> Link</a>
+    <p>
+        Python was created by
+        <city>Guido van Rossum</city>
+        and first released on February 20, 1991.
+    </p>
+    <p>
+        <q>python program to print Hello python</q>
+    </p>
+    <p>
+        <b> Features in python</b>
+        <br/>
+    </p>
+    <ol>
+        <il>free and open source</il>
+        <il>Easy to use and learn. Python has a simple syntax that is easy to learn. ...</il>
+        <il>Multi-Paradigm. Python supports multiple programming paradigms. ...</il>
+        <il>Easy to Debug.</il>
+        <il>Easy to Read. ...</il>
+        <il>Object-Oriented Language</il>
+        <il>High-Level Language</il>
+    </ol>
+    <ul>
+        <li>Improved Productivity</li>
+        <li>nterpreted Language</li>
+        <li>Dynamically Typed</li>
+        <li>Free and Open-Source</li>
+        <li>Vast Libraries Support</li>
+        <li>Portability.</li>
+    </ul>
+    <dl>
+        <dt>oops in python</dt>
+        <dd>Class, Object, Method, Inheritance, Polymorphism, Data Abstraction, and Encapsulation.</</dd>
+    </dl>
+    <p>
+        covert data to text in python
+        <mark> a=str(5)</mark>
+    </p>
+    <ruby>
+        <rp>(</rp>rp>
+        <rt>)~*</rt>
+        <rp>)</rp>
+    </ruby>
+<div></div>
+<nav.</nav>
+<header>,/header>
+<footer></footer>
+<main></main>
+<section></section>
+<aside></aside>
+<article></article>
+<canvas></canvas>
+<button>Leran More!</button>
+<button type="button">
+Get started
+</button>
+<br/>
+<br/>
+<details>
+<summary> Data type</summary>
+<p>
+<li> numeric data type: int, float,complex.</li>
+<li> String types:Str.</li>
+<li> boolean type: bppl</li>
+</p>
+</details>
+<from>
+<label for="username">Username:</label>
+<input
+type="text placeholder="Username...."
+id="username"
+/>
+<br/>
+<br/>
+<input
+type="email"
+placehodler=wervgt452@gmail.com"
+/>
+<br/>
+<br/>
+<input type="password
+placeholder="password"/>
+<br/>
+<br/>
+<input type="Submit"
+</fieldset>
+</form>
+</body>
+</html>
