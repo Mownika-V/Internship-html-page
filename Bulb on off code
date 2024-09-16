@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Bulb on/of</title>
+<script type="text/javascript">
+function fuction_name(show){
+    var pic;
+    if (show ==0){
+        pic = "pic_bulboff.gif"
+    }
+    else{
+        pic = "pic_bulbon.gif";
+    }
+    document.getElementById('bulb').src = pic;
+}
+</script>
+</head>
+<body>
+<h1> BULB on/of</h1>
+<p>Here, a JavaScript changes the values of the source attribute of an images.</p>
+<center>
+<img id= "bulb" src="pic_bulboff.gif"  width="100px" height="180px">
+<p>
+<button type="button" onclick="light(1)">Light ON</button>
+<button type="button" onclick="light(0)">Light OFF</button>
+</p>
+</center>
+</body>
+</html>
